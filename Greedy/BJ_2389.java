@@ -1,6 +1,8 @@
+package Greedy;
+
 import java.util.Scanner;
 
-public class Main {
+public class BJ_2389 {
     static int n;
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
