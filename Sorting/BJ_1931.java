@@ -1,8 +1,9 @@
+package Sorting;
+
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.Scanner;
-import java.util.stream.Collector;
+
 class Pair implements Comparable<Pair>{
     private int start;
     private int end;
