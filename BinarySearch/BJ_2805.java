@@ -1,8 +1,11 @@
+package BinarySearch;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
+
 //범위를 잊지말자 int , long
-class Main{
+class BJ_2805 {
     static ArrayList<Integer> ary = new ArrayList<>();
     static int n, m;
     public static void main(String[] args) {

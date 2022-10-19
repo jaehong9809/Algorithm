@@ -33,7 +33,7 @@ class Pair implements Comparable<Pair>{
 
     }
 }
-class Main{
+class BJ_1931{
     static int n;
     static ArrayList<Pair> arrayList = new ArrayList<>();
     static ArrayList<Pair> list = new ArrayList<>();
