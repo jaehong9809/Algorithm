@@ -1,8 +1,10 @@
+package Floyd_warshall;
+
 import java.util.Scanner;
 
-import static java.lang.Math.*;
+import static java.lang.Math.min;
 
-class Main{
+class BJ_11404 {
     static int n, m;
     static final int INF= (int) 1e9;
 
