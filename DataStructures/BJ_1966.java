@@ -1,6 +1,8 @@
+package DataStructures;
+
 import java.util.*;
 
-class Main{
+class BJ_1966 {
     static int t;
     static class Pair{
         int index;
