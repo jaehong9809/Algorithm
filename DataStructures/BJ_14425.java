@@ -1,3 +1,5 @@
+package DataStructures;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -5,7 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-class Main{
+class BJ_14425 {
     static Set<String> set = new HashSet<>();
     static int n, m;
     public static void main(String[] args) throws IOException {
