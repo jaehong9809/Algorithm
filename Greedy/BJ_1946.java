@@ -1,10 +1,12 @@
+package Greedy;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
 //1946
-class Main{
+class BJ_1946 {
     static class Grade implements Comparable<Grade>{
         public int x;
         public int y;
