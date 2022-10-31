@@ -1,8 +1,10 @@
+package Sorting;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-class Main{
+class BJ_18310 {
     static int n;
     static ArrayList<Integer> ary = new ArrayList<>();  //거리의 합이 최소가 되려면 가운데에 위치해야 한다.
     public static void main(String[] args) {
