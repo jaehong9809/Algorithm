@@ -1,8 +1,8 @@
-import java.util.LinkedList;
-import java.util.Queue;
+package Graph;
+
 import java.util.Scanner;
 
-class Main{
+class BJ_16953 {
     static long a, b;
     static boolean ok;
     public static void main(String[] args) {
