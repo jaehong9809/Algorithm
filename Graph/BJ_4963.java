@@ -1,10 +1,10 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
+package Graph;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-class Main {
+class BJ_4963 {
     static int n, m;
     static int[][] matrix;
 
