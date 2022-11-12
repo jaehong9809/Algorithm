@@ -1,8 +1,10 @@
+package Graph;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-class Main{
+class BJ_11724 {
     static int n, m;
     static int[][] matrix=new int[1001][1001];
     static int[] visited = new int[1001];
