@@ -1,6 +1,8 @@
+package Math;
+
 import java.util.Scanner;
 
-class Main{
+class BJ_10039 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int cnt=0;
