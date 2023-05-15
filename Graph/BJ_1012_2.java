@@ -1,8 +1,10 @@
+package Graph;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-class Main {
+class BJ_1012_2 {
     static int[][] matrix;
     static int m;
     static int n;
