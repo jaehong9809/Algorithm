@@ -1,6 +1,9 @@
-import java.util.*;
+package DataStructures;
 
-class Main{
+import java.util.Scanner;
+import java.util.Stack;
+
+class BJ_10773_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n= sc.nextInt();
