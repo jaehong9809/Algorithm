@@ -1,8 +1,10 @@
+package Graph;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-class Main{
+class BJ_4963_2 {
     static int w;
     static int h;
     public static void main(String[] args) {
