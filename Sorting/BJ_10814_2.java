@@ -1,9 +1,10 @@
-import java.lang.reflect.Array;
+package Sorting;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-class Main{
+class BJ_10814_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n= sc.nextInt();
