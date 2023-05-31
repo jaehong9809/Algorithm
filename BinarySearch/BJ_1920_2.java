@@ -1,9 +1,10 @@
-import java.awt.*;
+package BinarySearch;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-class Main{
+class BJ_1920_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n= sc.nextInt();
