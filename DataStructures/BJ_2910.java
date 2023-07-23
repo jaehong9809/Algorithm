@@ -1,10 +1,11 @@
+package DataStructures;
+
 import java.util.*;
 
-class Main {
+class BJ_2910 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int c = sc.nextInt();
         HashMap<Integer, Num> data = new HashMap<>();
 
         int index = 0;
