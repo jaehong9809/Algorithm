@@ -1,6 +1,8 @@
-import java.util.*;
+package Implementation;
 
-class Main{
+import java.util.Scanner;
+
+class BJ_2566 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int[][] matrix=new int[10][10];
