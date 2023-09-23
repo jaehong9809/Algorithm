@@ -1,8 +1,10 @@
+package Implementation;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-class Main{
+class BJ_1526 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
@@ -18,7 +20,7 @@ class Main{
                     flag=false;
                 }
             }
-            if(flag==true){
+            if(flag){
                 max=tmp;
             }
         }
