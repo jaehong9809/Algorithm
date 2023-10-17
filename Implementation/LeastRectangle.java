@@ -1,5 +1,10 @@
-import java.util.*;
-class Solution {
+package Implementation;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+class LeastRectangle {
     public int solution(int[][] sizes) {
         int answer = 0;
         List<Integer> x=new ArrayList<>();
